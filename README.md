@@ -18,7 +18,7 @@ It is the describing from title of the application that mainly serves it's purpo
 * cd .. && react-native run-android
 
 
-###Authors
+### Authors
 * **Robert Espina**
 * **Joshua Caino**
 
